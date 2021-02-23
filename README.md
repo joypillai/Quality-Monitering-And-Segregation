@@ -1,3 +1,5 @@
+note: refer project1.ino for updated code
+
 ## Quality-Monitering-And-Segregation
 
 Embedded code for the device built.
